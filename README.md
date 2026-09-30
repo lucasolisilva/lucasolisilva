@@ -3,7 +3,7 @@
 # Lucas de Oliveira Silva
 
 
-## Estudante de Ciência da Computação · Java e automação · Construindo meu caminho no backend
+### Estudante de Ciência da Computação · Java e automação · Construindo meu caminho no backend
 
 [![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/lucasolisilva/der-automation)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://github.com/lucasolisilva/der-automation)
