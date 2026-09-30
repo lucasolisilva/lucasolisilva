@@ -1,49 +1,63 @@
-# Olá, eu sou o Lucas 👋
+<div align="center">
 
-**Estudante de Ciência da Computação | Java | Automação de Processos | Desenvolvimento Backend**
+# Lucas de Oliveira Silva
 
-Transformo problemas operacionais em soluções de software. Minha experiência combina desenvolvimento em Java, automação web, análise de requisitos e visão de negócio para simplificar processos e gerar resultados mensuráveis.
+### Entender o problema. Escrever a solução. Medir o impacto.
 
-## Sobre mim
+Estudante de Ciência da Computação · Java e automação · Construindo meu caminho no backend
 
-- 🎓 Cursando **Ciência da Computação na UNICID**, com conclusão prevista para 2027.
-- 💼 Atuo na **Frota 162**, aplicando tecnologia à melhoria e automação de processos reais.
-- ⚙️ Desenvolvi uma automação que reduziu em aproximadamente **80%** o tempo de execução de um processo operacional.
-- 🔎 Gosto de investigar causas, entender regras de negócio e transformar aprendizado em soluções práticas.
-- 🎯 Busco oportunidades de estágio em **desenvolvimento de software, backend e engenharia de software**.
+[![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/lucasolisilva/der-automation)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://github.com/lucasolisilva/der-automation)
+![SQL](https://img.shields.io/badge/SQL-em_estudo-2563EB?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vamos_conversar-0A66C2?style=flat-square)](https://www.linkedin.com/in/lucasolisilva12/)
 
-## Projeto em destaque
+</div>
 
-### DER Automation
+---
 
-Automação end-to-end desenvolvida em **Java 21** e **Selenium WebDriver** para executar o fluxo de indicação de condutor no sistema do DER-PR.
+## Código que devolve tempo
 
-A solução consulta dados pela API do Jira, localiza documentos sincronizados pelo Google Drive, preenche etapas dinâmicas no navegador, realiza uploads sequenciais e retorna o número do processo gerado. O projeto reduziu em aproximadamente **80%** o tempo da operação.
+Minha experiência com tecnologia passa por um lugar bem concreto: processos que alguém precisa executar todos os dias. Na **Frota 162**, aplico tecnologia à automação e à melhoria dessas rotinas, conectando análise de processos e desenvolvimento de software.
 
-Principais decisões técnicas:
+Foi nesse contexto que desenvolvi uma automação em Java que **reduziu em cerca de 80% o tempo operacional do processo atendido**. É o tipo de resultado que orienta meu interesse por desenvolvimento: entender onde está o esforço, construir uma solução e observar o que ela melhora.
 
-- arquitetura em camadas e separação de responsabilidades;
-- Page Object Model para encapsular páginas, locators e ações;
-- integração com API REST usando `HttpClient` e Jackson;
-- esperas explícitas para sincronização com interfaces dinâmicas;
-- tratamento de falhas e suporte a execuções consecutivas;
-- testes com JUnit para parsing, arquivos, páginas e fluxo completo.
+Curso **Ciência da Computação na UNICID**, com conclusão prevista para **2027**, e busco uma **oportunidade de estágio em desenvolvimento, backend ou engenharia de software**.
 
-## Tecnologias
+## Um projeto que mostra como trabalho
 
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### [DER Automation ↗](https://github.com/lucasolisilva/der-automation)
 
-Também trabalho com **programação orientada a objetos, princípios SOLID, APIs REST, JSON, testes automatizados, Page Object Model e análise de processos**.
+Automação do fluxo de indicação de condutor no sistema do DER-PR, desenvolvida em **Java 21 e Selenium**. A solução consulta dados pela **API do Jira**, localiza documentos sincronizados pelo **Google Drive**, preenche etapas no navegador e retorna o número do processo gerado.
 
-## Em desenvolvimento
+- **Impacto:** redução de aproximadamente **80% no tempo operacional**.
+- **Implementação:** arquitetura em camadas, Page Object Model e integração com API REST.
+- **Qualidade:** esperas explícitas, tratamento de falhas e testes com JUnit.
 
-Atualmente, aprofundo meus conhecimentos em desenvolvimento backend, arquitetura de software, testes e construção de aplicações Java mais fáceis de manter e evoluir.
+[Explorar o projeto e a implementação →](https://github.com/lucasolisilva/der-automation)
 
-## Contato
+## O que estou construindo na minha base
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_de_Oliveira_Silva-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasolisilva12/)
-[![E-mail](https://img.shields.io/badge/E--mail-lucas13olisilva%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lucas13olisilva@gmail.com)
+**Desenvolvimento**  
+Java, orientação a objetos, princípios SOLID, APIs REST e JSON.
+
+**Automação e testes**  
+Selenium, JUnit e Page Object Model.
+
+**Ferramentas e processos**  
+Git, Maven e análise de processos para identificar oportunidades de automação.
+
+**Foco atual: dados**  
+Estou estudando **banco de dados, SQL e modelagem de dados**, com conhecimentos básicos nesses assuntos. É o próximo passo para ampliar minha compreensão de como uma aplicação organiza e consulta suas informações.
+
+```sql
+-- O próximo capítulo da minha formação
+SELECT 'Banco de dados' AS foco,
+       'SQL e modelagem de dados' AS estudos,
+       'Básico, em evolução' AS nivel;
+```
+
+## Vamos conversar?
+
+Tenho interesse em oportunidades nas quais possa contribuir com minha experiência em automação, aprofundar minha base em Java e aprender com uma equipe de desenvolvimento.
+
+**[LinkedIn](https://www.linkedin.com/in/lucasolisilva12/)** · **[lucas13olisilva@gmail.com](mailto:lucas13olisilva@gmail.com)**
