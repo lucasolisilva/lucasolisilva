@@ -5,10 +5,12 @@
 
 ### Estudante de Ciência da Computação · Java e automação · Construindo meu caminho no backend
 
-[![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/lucasolisilva/der-automation)
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://github.com/lucasolisilva/der-automation)
-![SQL](https://img.shields.io/badge/SQL-em_estudo-2563EB?style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vamos_conversar-0A66C2?style=flat-square)](https://www.linkedin.com/in/lucasolisilva12/)
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2563EB?style=flat-square)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 
 </div>
 
